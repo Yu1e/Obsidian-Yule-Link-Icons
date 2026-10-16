@@ -1,0 +1,9 @@
+{
+  "id": "yule-link-icons",
+  "name": "Yule Link Icons",
+  "version": "4.2.0",
+  "minAppVersion": "1.0.0",
+  "description": "Unified icon system for internal, external, and local file links.",
+  "author": "Yule",
+  "isDesktopOnly": false
+}
