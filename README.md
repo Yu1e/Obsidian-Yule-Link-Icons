@@ -65,10 +65,10 @@ Save your favorite symbols for quick access across all icon pickers.
 
 ## Settings UI
 
-- **Sticky preview** — always visible at the top, shows all three link types
+- **Preview** — stays at the top of the settings and shows all three link types
 - **Collapsible sections** — each link type in its own block with distinct background
 - **Color-coded blocks** — purple for internal, teal for external, amber for files
-- **Clean design** — no emoji in UI labels, structured with typography and spacing
+- **Interface** — no emoji in UI labels, structure set by typography and spacing
 
 ## Installation
 
@@ -164,10 +164,10 @@ MIT
 
 ## Интерфейс настроек
 
-- **Закреплённый предпросмотр** — всегда виден вверху, показывает все три типа ссылок
+- **Предпросмотр** — остаётся вверху настроек, показывает все три типа ссылок
 - **Сворачиваемые разделы** — каждый тип ссылок в отдельном блоке с собственным фоном
 - **Блоки с цветовой маркировкой** — фиолетовый для внутренних, бирюзовый для внешних, янтарный для файлов
-- **Чистый дизайн** — без эмодзи в подписях интерфейса, структура задаётся типографикой и отступами
+- **Интерфейс** — без эмодзи в подписях, структура задаётся типографикой и отступами
 
 ## Установка
 
